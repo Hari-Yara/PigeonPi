@@ -1,0 +1,12 @@
+{
+	"userId": 1234567890,
+	"username":"",
+	"local_name":"",
+	"latch":"",
+	"dialing_code": 91,
+	"mobile_number":7794020613,
+	"dp_url":"",
+	"registration_token":"",
+	"online_status":"",
+	"bio": ""
+}
