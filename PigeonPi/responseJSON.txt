@@ -8,6 +8,6 @@
 	"dp_url":"",
 	"registration_token":"",
 	"online_status":"",
-	"bio": "hi"
+	"bio": "hello"
 }
 
