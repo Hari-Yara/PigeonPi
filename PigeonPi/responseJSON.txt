@@ -1,7 +1,7 @@
 {
 	"userId": 1234567890,
 	"username":"user",
-	"local_name":"",
+	"local_name":"My Computer",
 	"latch":"",
 	"dialing_code": 91,
 	"mobile_number":7794020613,
