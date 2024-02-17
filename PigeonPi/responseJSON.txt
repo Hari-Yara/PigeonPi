@@ -1,6 +1,6 @@
 {
 	"userId": 1234567890,
-	"username":"",
+	"username":"user",
 	"local_name":"",
 	"latch":"",
 	"dialing_code": 91,
